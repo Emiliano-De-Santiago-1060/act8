@@ -19,7 +19,7 @@ class _HomePageState extends State<HomePage> {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: AssetImage('assets/fiesta.jpg'),
+            image: AssetImage('assets/fresas.jpg'),
             fit: BoxFit.cover,
           ),
         ),
@@ -123,7 +123,7 @@ class FindEvent extends StatelessWidget {
               decoration: BoxDecoration(
                 borderRadius: BorderRadius.circular(10),
                 image: DecorationImage(
-                  image: AssetImage('assets/fiesta.jpg'),
+                  image: AssetImage('assets/fresas.jpg'),
                   fit: BoxFit.cover,
                 ),
               ),
@@ -165,13 +165,13 @@ class FindEvent extends StatelessWidget {
                 ),
               ),
               SizedBox(height: 30),
-              makeItem(image: 'assets/fiesta.jpg', date: 17),
+              makeItem(image: 'assets/fresas.jpg', date: 17),
               SizedBox(height: 20),
-              makeItem(image: 'assets/fiesta2.jpg', date: 18),
+              makeItem(image: 'assets/fresas2.jpg', date: 18),
               SizedBox(height: 20),
-              makeItem(image: 'assets/fiesta3.jpg', date: 19),
+              makeItem(image: 'assets/fresas3.jpg', date: 19),
               SizedBox(height: 20),
-              makeItem(image: 'assets/fiesta4.jpg', date: 20),
+              makeItem(image: 'assets/fresas4.jpg', date: 20),
               SizedBox(height: 20),
             ],
           ),

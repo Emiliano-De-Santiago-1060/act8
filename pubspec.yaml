@@ -19,7 +19,7 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/fiesta.jpg
-    - assets/fiesta2.jpg
-    - assets/fiesta3.jpg
-    - assets/fiesta4.jpg
+    - assets/fresas.jpg
+    - assets/fresas2.jpg
+    - assets/fresas3.jpg
+    - assets/fresas4.jpg
